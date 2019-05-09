@@ -7,9 +7,4 @@ const ImageThumbnail = () => {
   );
 };
 
-//
-const HeaderContainer = () => {
-  return <div className="header-container" />;
-};
-
-export default HeaderContainer;
+export default ImageThumbnail;
