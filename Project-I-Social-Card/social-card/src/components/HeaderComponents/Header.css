@@ -1,1 +1,9 @@
 /* All styles for your header Components live here */
+
+.header-container {
+  border: solid red 1px;
+  height: 15%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
