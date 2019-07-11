@@ -1,1 +1,17 @@
 /* All styles for your Card Components live here */
+
+.card-container {
+  border: solid 1px purple;
+}
+
+a {
+  text-decoration: none;
+  color: grey;
+}
+/*
+.IMG AND CONTENT SHOULD BE SOMETHING LIKE THIS
+border-radius: 2px;
+  width:100%;
+  height:75%;
+  padding-left:25px;
+  */
